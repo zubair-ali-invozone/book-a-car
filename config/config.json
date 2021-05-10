@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "invozone-8144",
+    "database": "express-auth",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": null,
+    "password": null,
+    "database": null,
+    "host": null,
+    "dialect": null
+  },
+  "production": {
+    "username": null,
+    "password": null,
+    "database": null,
+    "host": null,
+    "dialect": null
+  }
+}
